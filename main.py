@@ -1,1 +1,1 @@
-import os
+print("Tutaj nic nie działa")
